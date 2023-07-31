@@ -1,8 +1,13 @@
 # Ultrasonic_Meter
 
 # Ultrasonic Distance Meter with ATmega16 and SRF05
+________________________________________________________________
+![Untitled2](https://github.com/hasan-emarati/Ultrasonic_Meter/assets/89896245/e4dc31ca-7496-4d6b-9680-c8392ddded51)
 
-![Ultrasonic Sensor](ultrasonic_sensor.jpg)
+3D
+
+![Untitled2](https://github.com/hasan-emarati/Ultrasonic_Meter/assets/89896245/d0224d5d-490d-4ad0-950f-928c57dbd9d5)
+__________________________________________________
 
 This project is a DIY ultrasonic distance meter implemented using the SRF05 ultrasonic module and the ATmega16 microcontroller. It enables distance measurements in centimeters and meters and displays the results on an LCD screen.
 
@@ -13,11 +18,6 @@ This repository contains the main code (`main.c`) written for the ATmega16 micro
 ### Getting Started
 __________________________________________________________
 Follow these steps to use the Ultrasonic Distance Meter:
-![Untitled2](https://github.com/hasan-emarati/Ultrasonic_Meter/assets/89896245/e4dc31ca-7496-4d6b-9680-c8392ddded51)
-
-3D
-
-![Untitled2](https://github.com/hasan-emarati/Ultrasonic_Meter/assets/89896245/d0224d5d-490d-4ad0-950f-928c57dbd9d5)
 
 1. **Circuit Connection**: Connect the SRF05 module to the ATmega16 microcontroller and the LCD display. Make sure to establish the connections based on the corresponding pins and connectors.
 
